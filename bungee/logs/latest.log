@@ -1,0 +1,11 @@
+[17:17:45] [main/INFO]: Using mbed TLS based native cipher.
+[17:17:45] [main/INFO]: Using zlib based native compressor.
+[17:17:46] [main/INFO]: Enabled BungeeCord/Waterfall/Travertine version git:Waterfall-Bootstrap:1.19-R0.1-SNAPSHOT:13085b9:510
+[17:17:49] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[17:17:50] [main/INFO]: Epoll is working, utilising it!
+[17:18:01] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.1 by lax1dude
+[17:18:03] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[17:18:07] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /127.0.0.1:8081
+[17:18:09] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[17:18:09] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.1 by lax1dude
+[17:18:10] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
